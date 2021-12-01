@@ -354,5 +354,15 @@ i{
     text-align: center;
 }
 
+.form .submit{
+    padding: 0.5rem;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background: #176585;
+    color: #dadada;
+}
+
 
 
