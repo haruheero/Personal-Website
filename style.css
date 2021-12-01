@@ -11,6 +11,7 @@ html{
     scroll-behavior: smooth;
 }
 body{
+    min-width: 990px;
     overflow-x: hidden;
     background: #ffff;
     min-height: 100vh;
@@ -24,6 +25,7 @@ body{
     padding: 30px 100px;
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
     align-items: center;
     z-index: 10000;
 }
@@ -81,13 +83,13 @@ section img{
 section #text{
     position: absolute;
     color: #094b65;
-    font-size: 20vw;
+    font-size: 3rem;
     text-align: center;
     line-height: 0.55em;
     transform: translateY(-50%);
 }
 section #text span{
-    font-size: 0.3em;
+    font-size: 2em;
     letter-spacing: 2px;
     font-weight: 400;
 }
@@ -97,7 +99,7 @@ section #text span{
     padding: 8px 30px;
     background: #ffff;
     color: #094b65;
-    font-size: 1.2em;
+    font-size: 1.2rem;
     font-weight: 500;
     letter-spacing: 2px;
     border-radius: 40px;
@@ -113,17 +115,17 @@ section #text span{
 }
 .sec .wrapper{text-align: left;}
 .sec h2{
-    font-size: 3.5em;
+    font-size: 3.5rem;
     color: #ffff;
     margin-bottom: 10px;
 }
 .sec h1{
-    font-size: 50px;
+    font-size: 4rem;
     color:#fc6d6d ;
     margin: 40px 0;
 }
 .sec p{
-    font-size: 25px;
+    font-size: 2rem;
     color: #ffff;
 }
 
@@ -134,7 +136,7 @@ section #text span{
 }
 .wrapper .static{
     line-height: 1.45;
-    font-size: 60px;
+    font-size: 4rem;
     font-weight: 400;
     color: #ffff;
 }
@@ -147,7 +149,7 @@ section #text span{
 .wrapper .dynamic li{
     position: relative;
     list-style: none;
-    font-size: 60px;
+    font-size: 4rem;
     font-weight: 500;
     color: #fc6d6d;
     top:0;
@@ -161,7 +163,7 @@ section #text span{
 .wrapper .dynamic li span::after{
     position: absolute;
     content: "_";
-    font-size: 60px;
+    font-size: 6rem;
     font-weight: 10;
     animation: typing 3s steps(23) infinite;
     background: #094b65;
@@ -186,6 +188,7 @@ section #text span{
     }
 }
 .footer{
+    margin-top: 10%;
     width: 100%;
     height: 200px;
     color:#fff;
@@ -227,7 +230,7 @@ i{
 }
 .s{
     border-radius: 15px;
-    height: 540px;
+    height: 100%;
     margin: 0 40px 0 40px;
     top: 5%;
     background: #fff;
@@ -242,6 +245,8 @@ i{
 
 /* Feature boxes */
 .s{
+    align-items: center;
+    justify-content: center;
     display: flex;
 }
 .part1,.part2,.part3{
@@ -282,7 +287,7 @@ i{
 .about .a,.head{
     margin-bottom: 20px;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 2rem;
 }
 .about .a1,.prt2{
     margin-top: 20px;
@@ -292,7 +297,7 @@ i{
 .about .b,.prt1{
     font-weight: bolder;
     color: #094b65;
-    font-size: 30px;
+    font-size: 2rem;
 }
 .about .c,.prt3{
     color: #176585;
@@ -317,16 +322,17 @@ i{
     color: #fc6d6d;
 }
 .co{
-    margin: 20px;
-    font-size: 30px;
+
+    margin: 10%;
+    font-size: 1.5rem;
 }
 .heading{
-    font-size: 40px;
+    font-size: 3rem;
     font-weight: bolder;
 }
 #name,#email,#message{
     margin-bottom: 50px;
-    width: 315%;
+    width: 100%;
     border: solid 1px #176585;
     border-radius: 5px;
     padding: 5px;
@@ -343,6 +349,10 @@ i{
     box-shadow: 0 0 10px #1792c2;
 }
 
+.form{
+    align-items: center;
+    text-align: center;
+}
 
 
 
