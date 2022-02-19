@@ -40,7 +40,7 @@
   
   ![image](https://user-images.githubusercontent.com/63349641/154803170-aca0237a-6860-46e0-af7e-36bff34596f9.png)
   
-    _The last section of the website conatins links to my linkedin, mail and github._
+   **The last section of the website conatins links to my linkedin, mail and github.**
   
   ## Tech Stack
   The website was made using
