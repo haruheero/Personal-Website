@@ -11,7 +11,7 @@
    
   * Responsive
   
-  ![Screenshot_20220313-202838_Chrome](https://user-images.githubusercontent.com/63349641/158065820-7d487570-b12c-45dd-a810-50dca52a4d5b.jpg)
+  <img src="https://user-images.githubusercontent.com/63349641/158065820-7d487570-b12c-45dd-a810-50dca52a4d5b.jpg" width=450/>
   
   * Simple and clean look
   
