@@ -11,11 +11,11 @@
    
   * Responsive
   
-  ![image](https://user-images.githubusercontent.com/63349641/154802296-24fc2320-22eb-4a74-b8f2-b1a8a548e781.png)
+  ![Screenshot_20220313-202838_Chrome](https://user-images.githubusercontent.com/63349641/158065820-7d487570-b12c-45dd-a810-50dca52a4d5b.jpg)
   
   * Simple and clean look
   
-  ![image](https://user-images.githubusercontent.com/63349641/154802561-85cf96b8-9fb5-46bc-a381-cc04ae38fde2.png)
+  ![image](https://user-images.githubusercontent.com/63349641/158065887-98dca891-bdd6-4141-9c81-010c900f5b9b.png)
   
   ## About
   
@@ -28,11 +28,11 @@
   * About : About section contains general overview about me. It  includes my interests, college and branch in the education section. My experiences as intern and member of the socities.
   This section also focuses on what skills I excel in and all the tech stack I am familiar with.
   
-  ![image](https://user-images.githubusercontent.com/63349641/154802976-2e4752ad-6a3c-4112-b263-49a2e5ebfd33.png)
+  ![image](https://user-images.githubusercontent.com/63349641/158065939-b51c4c61-e853-4394-ae24-ee5fef374ab8.png)
   
   * Projects : This section focuses on what projects I have made uptill now. It conatins the github repository of the projects as well as the live demo of some.
   
-  ![image](https://user-images.githubusercontent.com/63349641/154803092-8dd033be-722a-44ad-a8c7-e7c6a31a1c57.png)
+  ![image](https://user-images.githubusercontent.com/63349641/158065989-c2b33f60-7dbf-4fad-984e-72977009b66d.png)
   
   * Connect : By filling out the form given in the connect section the user can send me an email.
   
